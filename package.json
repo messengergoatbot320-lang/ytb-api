@@ -9,11 +9,11 @@
   "author": "Rocky",
   "license": "MIT",
   "dependencies": {
-    "@distube/ytdl-core": "^4.16.10",
-    "@distube/ytsr": "^2.1.0",
+    "@distube/ytdl-core": "^4.14.4",
+    "@distube/ytsr": "^1.1.6",
     "express": "^4.18.2"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "20.x"
   }
 }
